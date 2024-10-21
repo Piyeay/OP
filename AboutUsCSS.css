@@ -1,0 +1,162 @@
+@font-face { 
+    font-family: 'Bracialle';
+    src:url(Barcialle.ttf);
+}
+
+@font-face { 
+    font-family: 'Furniture';
+    src:url(Furniture.otf);
+}
+
+@font-face { 
+    font-family: 'Sinera';
+    src:url(Sinera.otf);
+}
+
+@font-face { 
+    font-family: 'Woody';
+    src:url(Woodlandia\ Free.otf);
+}
+
+nav {
+    background-color: #fff1f5;
+    position: fixed;
+    bottom: 623px;
+    padding: 0px;
+    margin-left: 15px;
+    margin-top: 0px;
+    z-index: 2;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    position: fixed;
+    right: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-top:15px;
+    margin-right: 50px;
+    padding: 5px;
+
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:5px 5px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #fcd5ce;
+    color: #fcd5ce;
+}
+
+.brand {
+    background: #23075200;
+    border: 3px solid #ceb1ff00;
+    height: 100px;
+    width: 600px;
+    border-radius: 0px;
+    text-align: center;
+    position: fixed;
+    margin-left: 270px;
+    top: 0px;
+    left: 0px;
+    font-size: x-large;
+    font-family: 'Furniture';
+    z-index: 3;
+}
+    
+.mb {
+    background-color: #fff1f5;
+    background-size: 100%;
+    border: 3px solid #ceb1ff00;
+    margin-top: 0px;
+    height: 380px;
+    width: 1330px;
+    border-radius: 0px;
+}
+
+.one {
+    background: #cdb1ff;
+    border: 3px solid #cdb1ff;
+    height: 180px;
+    width: 1150px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 65px;
+}
+
+.desk {
+    background: #c6edc3;
+    border: 3px solid #c6edc3;
+    height: 360px;
+    width: 1280px;
+    border-radius: 0px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+article {
+    margin-right: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+    text-size-adjust: 1000px;
+    text-align: justify;
+}
+
+.Vision {
+    background: #caf0f8;
+    border: 3px solid #caf0f8;
+    height: 225px;
+    width: 350px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 45px;
+    margin-left: 25px;
+    float: left;
+}
+
+.Mission {
+    background: #caf0f8;
+    border: 3px solid #caf0f8;
+    height: 225px;
+    width: 800px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+
+footer {
+    background-color: #fff1f5;
+    color: black;
+    text-align: center;
+    padding: 1.75em 0;
+}
+
+p {
+    font-size: x-large;
+}
+
+.A a:hover{
+    background-color: #fcd5ce;
+}
+.B a:hover{
+    background-color: #fcd5ce;
+}
+.C a:hover{
+    background-color: #fcd5ce;
+}
+

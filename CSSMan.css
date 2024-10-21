@@ -1,0 +1,221 @@
+@font-face { 
+    font-family: 'Qrowy';
+    src:url(Qrowy\ Magical.otf);
+}
+
+@font-face { 
+    font-family: 'Furniture';
+    src:url(Furniture.otf);
+}
+
+nav {
+    background-color: #fff1f5;
+    position: fixed;
+    bottom: 623px;
+    padding: 0px;
+    margin-left: 15px;
+    margin-top: 0px;
+    z-index: 2;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    position: fixed;
+    right: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-top:15px;
+    margin-right: 50px;
+    padding: 5px;
+
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:5px 5px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #fcd5ce;
+    color: #fcd5ce;
+}
+
+.brand {
+    background: #23075200;
+    border: 3px solid #ceb1ff00;
+    height: 100px;
+    width: 600px;
+    border-radius: 0px;
+    text-align: center;
+    position: fixed;
+    margin-left: 270px;
+    top: 0px;
+    left: 0px;
+    font-size: x-large;
+    font-family: 'Furniture';
+    z-index: 3;
+}
+    
+.mb {
+    background-color: #fff1f5;
+    background-size: 100%;
+    border: 3px solid #ceb1ff00;
+    margin-top: 0px;
+    height: 325px;
+    width: 1330px;
+    border-radius: 0px;
+}
+
+.onee {
+    background: #cdb1ff;
+    border: 3px solid #cdb1ff;
+    height: 150px;
+    width: 1150px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 25px;
+    margin-top: -100px;
+    margin-left: 65px;
+}
+
+.one {
+    background: #F7DC8B;
+    border: 3px solid #fcd5ce;
+    height: 250px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;/
+}
+.two {
+    background: #32d6e9;
+    border: 3px solid #fcd5ce;
+    height: 325px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;/
+}
+.three {
+    background: #7f7f7f;
+    border: 3px solid #fcd5ce;
+    height: 270px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.four {
+    background: #ffd2df;
+    border: 3px solid #fcd5ce;
+    height: 250px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.five {
+    background: #99deb9;
+    border: 3px solid #fcd5ce;
+    height: 250px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+.six {
+    background: #ff6b6b;
+    border: 3px solid #fcd5ce;
+    height: 250px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.seven {
+    background: #F7DC8B;
+    border: 3px solid #fcd5ce;
+    height: 240px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.eight {
+    background: #0077b6;
+    border: 3px solid #fcd5ce;
+    height: 245px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.nine {
+    background: #00b4d8;
+    border: 3px solid #fcd5ce;
+    height: 245px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.ten {
+    background: #90e0ef;
+    border: 3px solid #fcd5ce;
+    height: 300px;
+    width: 1320px;
+    border-radius: 0px;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+footer {
+    background-color: #fff1f5;
+    color: black;
+    text-align: center;
+    padding: 1.75em 0;
+}
+
+p {
+    font-size: x-large;
+}
+
+.A a:hover{
+    background-color: #fcd5ce;
+}
+.B a:hover{
+    background-color: #fcd5ce;
+}
+.C a:hover{
+    background-color: #fcd5ce;
+}
+

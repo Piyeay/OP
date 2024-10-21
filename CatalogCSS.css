@@ -1,0 +1,201 @@
+@font-face { 
+    font-family: 'Qrowy';
+    src:url(Qrowy\ Magical.otf);
+}
+
+@font-face { 
+    font-family: 'Furniture';
+    src:url(Furniture.otf);
+}
+
+@font-face { 
+    font-family: 'woody';
+    src:url(Woodlandia\ Free.otf);
+}
+
+nav {
+    background-color: #fff1f5;
+    position: fixed;
+    bottom: 623px;
+    padding: 0px;
+    margin-left: 15px;
+    margin-top: 0px;
+    z-index: 2;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    position: fixed;
+    right: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-top:15px;
+    margin-right: 50px;
+    padding: 5px;
+
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:5px 5px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #fcd5ce;
+    color: #fcd5ce;
+}
+
+.brand {
+    background: #23075200;
+    border: 3px solid #ceb1ff00;
+    height: 100px;
+    width: 600px;
+    border-radius: 0px;
+    text-align: center;
+    position: fixed;
+    margin-left: 270px;
+    top: 0px;
+    left: 0px;
+    font-size: x-large;
+    font-family: 'Furniture';
+    z-index: 3;
+}
+    
+.mb {
+    background-color: #fff1f5;
+    background-size: 100%;
+    border: 3px solid #ceb1ff00;
+    margin-top: 0px;
+    height: 325px;
+    width: 1330px;
+    border-radius: 0px;
+}
+
+.one1 {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 380px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 100px;
+    float: left;
+}
+.two2 {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 380px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 100px;
+    float: left;
+}
+
+.three3 {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 380px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 900px;
+
+}
+
+.one {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 100px;
+    float: left;
+}
+.two {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 100px;
+    float: left;
+}
+
+.three {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 900px;
+
+}
+
+.set {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 508px;
+
+}
+
+.zero {
+    background: #fff1f5;
+    border: 3px solid #fcd5ce;
+    height: 380px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 508px;
+}
+
+footer {
+    background-color: #fff1f5;
+    color: black;
+    text-align: center;
+    padding: 1.75em 0;
+}
+
+p {
+    font-size: x-large;
+}
+
+.A a:hover{
+    background-color: #fcd5ce;
+}
+.B a:hover{
+    background-color: #fcd5ce;
+}
+.C a:hover{
+    background-color: #fcd5ce;
+}
+
